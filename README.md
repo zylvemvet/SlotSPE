@@ -3,7 +3,6 @@
 [ICLR 2026]  
 **Structural Prognostic Event Modeling for Multimodal Cancer Survival Analysis**
 
----
 
 ## 📌 Overview
 
@@ -11,7 +10,6 @@ This repository contains the official implementation of **SlotSPE**, a novel fra
 
 SlotSPE is a slot-based framework that models sparse, patient-specific structural prognostic events from multimodal cancer data to enable efficient interaction modeling and improve survival prediction.
 
----
 
 ## 🚧 Code Release Schedule
 
@@ -22,8 +20,6 @@ The full implementation of SlotSPE is currently being finalized.
 We appreciate your patience and interest in our work.
 
 ---
-
-## 📄 Paper
 
 The paper has been accepted at **ICLR 2026**.
 
