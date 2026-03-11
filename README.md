@@ -139,7 +139,7 @@ Packaged 5-fold splits are currently included for:
 
 The root training pipeline does not start from raw WSIs. It expects precomputed slide-level patch features saved as `.pt` tensors.
 
-For preprocessing, use the dedicated materials in [feature_extract/README.md](feature_extract/README.md) or - [Pipeline-Processing-TCGA-Slides-for-MIL](https://github.com/liupei101/Pipeline-Processing-TCGA-Slides-for-MIL), especially:
+For preprocessing, use the dedicated materials in [feature_extract/README.md](feature_extract/README.md) or [Pipeline-Processing-TCGA-Slides-for-MIL](https://github.com/liupei101/Pipeline-Processing-TCGA-Slides-for-MIL), especially:
 
 - `S01-Downloading-Slides-from-TCGA.ipynb`
 - `S02-Reorganizing-Slides-at-Patient-Level.ipynb`
