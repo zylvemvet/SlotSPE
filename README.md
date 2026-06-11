@@ -148,6 +148,12 @@ For preprocessing, use the dedicated materials in [feature_extract/README.md](fe
 
 That submodule also includes CLAM-based tooling and helper scripts for feature extraction with multiple pathology encoders.
 
+## Gene (RNA-seq) Preprocessing
+
+The omics side of the pipeline turns raw [cBioPortal](https://www.cbioportal.org/) downloads into the RNA-seq tables, survival labels, and fold splits that SlotSPE reads from `dataset_csv/`. The full, runnable walkthrough (using `TCGA-BRCA` as the example) is in [gene_preprocess/Genes-Preprocessing.ipynb](gene_preprocess/Genes-Preprocessing.ipynb).
+
+These outputs correspond directly to the metadata paths described in [Metadata under `dataset_csv/`](#metadata-under-dataset_csv).
+
 ## Quick Start
 
 The public training entrypoint is:

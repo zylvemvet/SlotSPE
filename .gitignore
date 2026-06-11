@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .idea/
 feature_extract/tools/CLAM/.gitignore
+gene_preprocess/dataset_csv_example/
